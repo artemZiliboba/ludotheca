@@ -1,0 +1,133 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Ludotheca game",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "name",
+    "name_is_editorial",
+    "added_at",
+    "updated_at",
+    "origin",
+    "evidence"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "name_is_editorial": {
+      "type": "boolean"
+    },
+    "added_at": {
+      "type": "string",
+      "format": "date"
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date"
+    },
+    "origin": {
+      "enum": [
+        "fictional",
+        "traditional",
+        "unknown"
+      ]
+    },
+    "game_type": {
+      "type": "string"
+    },
+    "evidence": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/evidence"
+      }
+    }
+  },
+  "$defs": {
+    "evidence": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "work_id",
+        "work_title",
+        "source",
+        "observed_play"
+      ],
+      "properties": {
+        "work_id": {
+          "type": "string"
+        },
+        "work_title": {
+          "type": "string"
+        },
+        "source": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "title",
+            "url",
+            "location"
+          ],
+          "properties": {
+            "title": {
+              "type": "string"
+            },
+            "url": {
+              "type": "string",
+              "format": "uri"
+            },
+            "location": {
+              "type": "string"
+            },
+            "edition": {
+              "type": "string"
+            }
+          }
+        },
+        "observed_play": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string"
+          }
+        },
+        "explicit_rules": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "mechanics": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "distinctive_features": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "comparison_source": {
+          "type": "string",
+          "format": "uri"
+        },
+        "completeness": {
+          "enum": [
+            "partial",
+            "complete",
+            "undetermined"
+          ]
+        }
+      }
+    }
+  }
+}
