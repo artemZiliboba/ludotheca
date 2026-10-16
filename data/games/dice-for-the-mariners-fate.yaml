@@ -1,0 +1,28 @@
+id: dice-for-the-mariners-fate
+name: Игра в кости за судьбу моряка
+name_is_editorial: true
+added_at: '2026-10-16'
+updated_at: '2026-10-16'
+origin: traditional
+game_type: игра в кости
+evidence:
+  - work_id: the-rime-of-the-ancient-mariner
+    work_title: The Rime of the Ancient Mariner
+    work_title_ru: Сказание о старом мореходе
+    source:
+      title: The Rime of the Ancient Mariner
+      url: https://www.gutenberg.org/cache/epub/151/pg151-images.html
+      location: 'Part III: the spectre-ship and the dice game'
+      location_ru: 'Часть III. Корабль-призрак и игра в кости'
+      edition: 'Project Gutenberg eBook #151, English text, updated 2013-01-31'
+    observed_play:
+      - На приблизившемся корабле-призраке две фигуры, Смерть и Жизнь-в-Смерти, бросают кости.
+      - Жизнь-в-Смерти объявляет, что игра завершена и она победила; затем корабль-призрак удаляется.
+      - После этого спутники старого морехода умирают, а сам он остаётся жив; связь этих событий с выигрышем отражена в повествовании, но условия игры не объяснены.
+    mechanics:
+      - Состязание двух участников с бросанием костей и объявлением победителя.
+      - Сверхъестественный исход игры связан в повествовании с судьбой людей на корабле; конкретные выигрышные комбинации и порядок бросков не описаны.
+    distinctive_features:
+      - Вместо обычного материального выигрыша на кону, по смыслу сцены, судьба старого морехода и его спутников.
+    comparison_source: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Dice
+    completeness: partial
