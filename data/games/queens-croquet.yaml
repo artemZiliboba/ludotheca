@@ -3,7 +3,7 @@ name: Крокет Королевы
 name_is_editorial: true
 added_at: '2026-10-16'
 updated_at: '2026-10-16'
-origin: fictional
+origin: traditional
 game_type: крокет
 evidence:
   - work_id: alices-adventures-in-wonderland
@@ -11,19 +11,19 @@ evidence:
     source:
       title: Alice's Adventures in Wonderland
       url: https://www.gutenberg.org/files/11/11-h/11-h.htm
-      location: 'Chapter VIII: The Queen’s Croquet-Ground; Chapter IX: The Mock Turtle’s Story'
+      location: 'Chapter VIII: The Queen’s Croquet-Ground'
       edition: 'Project Gutenberg eBook #11, Millennium Fulcrum Edition 3.0 (English)'
     observed_play:
       - На неровной площадке в качестве шаров используют живых ежей, в качестве молотков — фламинго, а согнувшиеся солдаты изображают воротца.
       - Алиса пытается ударить головой фламинго по ежу; ёж разворачивается и уползает, а живые воротца перемещаются.
-      - Участники играют одновременно, не дожидаясь очереди, и спорят из-за ежей.
+      - В показанной партии участники играют одновременно, не соблюдая очередность, и спорят из-за ежей.
       - Алиса упоминает, что следующие воротца, через которые ей нужно пройти, переместились в другую часть площадки.
     mechanics:
       - Удары живым фламинго по живому ежу вместо обычного молотка и шара.
       - Подвижные воротца из согнувшихся солдат.
-      - Одновременная игра участников без соблюдаемой очередности в показанном эпизоде.
+      - В показанном эпизоде игроки действуют одновременно, хотя текст также упоминает пропущенные ходы.
     distinctive_features:
       - Живые игровые предметы самостоятельно меняют положение и мешают удару.
-      - Порядок ходов нарушается; Алиса не может определить, когда её очередь.
+      - В ходе партии порядок ходов нарушается; это не означает, что очередность отсутствует как правило.
     comparison_source: https://www.croquet.org.uk/?p=games%2Fassociation%2Flaws%2FacBasicLaws
     completeness: partial
