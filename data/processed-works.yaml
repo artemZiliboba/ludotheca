@@ -13,3 +13,9 @@ works:
     processed_at: '2026-10-16'
     game_ids:
       - dice-for-the-mariners-fate
+  - id: the-most-dangerous-game
+    title: The Most Dangerous Game
+    source_url: https://en.wikisource.org/wiki/O._Henry_Memorial_Award_Prize_Stories_of_1924/The_Most_Dangerous_Game
+    processed_at: '2026-10-16'
+    game_ids:
+      - zaroffs-human-hunt
