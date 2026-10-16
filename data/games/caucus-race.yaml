@@ -1,6 +1,7 @@
 id: caucus-race
-name: Caucus-race
-name_is_editorial: false
+name: Бег по кругу
+original_name: Caucus-race
+name_is_editorial: true
 added_at: '2026-10-16'
 updated_at: '2026-10-16'
 origin: fictional
