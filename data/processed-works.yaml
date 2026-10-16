@@ -19,3 +19,9 @@ works:
     processed_at: '2026-10-16'
     game_ids:
       - zaroffs-human-hunt
+  - id: through-the-looking-glass
+    title: Through the Looking-Glass, and What Alice Found There
+    source_url: https://www.gutenberg.org/files/12/12-h/12-h.htm
+    processed_at: '2026-10-16'
+    game_ids:
+      - looking-glass-living-chess
