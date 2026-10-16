@@ -25,3 +25,9 @@ works:
     processed_at: '2026-10-16'
     game_ids:
       - looking-glass-living-chess
+  - id: celebrated-jumping-frog-of-calaveras-county
+    title: The Celebrated Jumping Frog of Calaveras County
+    source_url: https://en.wikisource.org/wiki/The_Celebrated_Jumping_Frog_of_Calaveras_County,_and_Other_Sketches/The_Celebrated_Jumping_Frog_of_Calaveras_County
+    processed_at: '2026-10-16'
+    game_ids:
+      - calaveras-frog-jumping-contest
