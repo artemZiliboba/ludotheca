@@ -3,7 +3,7 @@ name: Состязание прыгающих лягушек
 name_is_editorial: true
 added_at: '2026-10-16'
 updated_at: '2026-10-16'
-origin: traditional
+origin: fictional
 game_type: состязание животных на дальность прыжка
 evidence:
   - work_id: celebrated-jumping-frog-of-calaveras-county
