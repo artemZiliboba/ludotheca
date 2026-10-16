@@ -7,3 +7,9 @@ works:
     game_ids:
       - caucus-race
       - queens-croquet
+  - id: the-rime-of-the-ancient-mariner
+    title: The Rime of the Ancient Mariner
+    source_url: https://www.gutenberg.org/cache/epub/151/pg151-images.html
+    processed_at: '2026-10-16'
+    game_ids:
+      - dice-for-the-mariners-fate
