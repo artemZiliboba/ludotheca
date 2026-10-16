@@ -1,0 +1,31 @@
+id: calaveras-frog-jumping-contest
+name: Состязание прыгающих лягушек
+name_is_editorial: true
+added_at: '2026-10-16'
+updated_at: '2026-10-16'
+origin: fictional
+game_type: состязание животных на дальность прыжка
+evidence:
+  - work_id: celebrated-jumping-frog-of-calaveras-county
+    work_title: The Celebrated Jumping Frog of Calaveras County
+    work_title_ru: Знаменитая скачущая лягушка из Калавераса
+    source:
+      title: The Celebrated Jumping Frog of Calaveras County
+      url: https://en.wikisource.org/wiki/The_Celebrated_Jumping_Frog_of_Calaveras_County,_and_Other_Sketches/The_Celebrated_Jumping_Frog_of_Calaveras_County
+      location: 'Full short story; Simon Wheeler’s account of Jim Smiley, Daniel Webster and the stranger’s forty-dollar bet'
+      location_ru: 'Рассказ целиком: история Саймона Уилера о Джиме Смайли, Дэниеле Вебстере и пари на сорок долларов'
+      edition: 'Text of the 1867 collection The Celebrated Jumping Frog of Calaveras County and Other Sketches, transcribed at Wikisource (not independently proofread against print)'
+    observed_play:
+      - Джим Смайли в течение трёх месяцев учит лягушку Дэниела Вебстера прыгать и затем предлагает незнакомцу пари на сорок долларов, утверждая, что его лягушка перепрыгнет любую другую в округе.
+      - Незнакомец соглашается при условии, что ему дадут другую лягушку; Смайли отправляется за ней, оставляя своего Дэниела Вебстера у соперника.
+      - Пока Смайли отсутствует, незнакомец незаметно засыпает Дэниелу Вебстеру в рот охотничью дробь.
+      - Смайли ставит двух лягушек рядом, выравнивает их передние лапы и подаёт счёт до трёх как сигнал; оба участника подталкивают лягушек сзади.
+      - Лягушка незнакомца прыгает, а Дэниел Вебстер не может сдвинуться; незнакомец забирает деньги.
+      - После ухода соперника Смайли обнаруживает дробь, когда переворачивает свою лягушку, и пытается догнать мошенника.
+    explicit_rules:
+      - Смайли предлагает определить победителя по тому, чья лягушка прыгнет дальше, и ставит на исход сорок долларов.
+    mechanics:
+      - Две лягушки размещаются рядом с выровненными передними лапами; старт задаётся общим счётом и лёгким подталкиванием.
+      - Результат в показанном пари определяется сравнением дальности прыжка.
+      - Тайное утяжеление одной лягушки дробью влияет на исход состязания, но не является разрешённым правилом.
+    completeness: partial
