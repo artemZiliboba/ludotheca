@@ -1,0 +1,27 @@
+id: caucus-race
+name: Caucus-race
+name_is_editorial: false
+added_at: '2026-10-16'
+updated_at: '2026-10-16'
+origin: fictional
+game_type: беговое состязание
+evidence:
+  - work_id: alices-adventures-in-wonderland
+    work_title: Alice's Adventures in Wonderland
+    source:
+      title: Alice's Adventures in Wonderland
+      url: https://www.gutenberg.org/files/11/11-h/11-h.htm
+      location: 'Chapter III: A Caucus-Race and a Long Tale'
+      edition: 'Project Gutenberg eBook #11, Millennium Fulcrum Edition 3.0 (English)'
+    observed_play:
+      - Додо размечает приблизительно круговую трассу; участников располагают в разных местах вдоль неё.
+      - Участники начинают и прекращают бег в выбранные ими моменты, без общего стартового сигнала; после примерно получаса Додо объявляет состязание завершённым.
+      - После вопроса о победителе Додо объявляет победителями всех и требует выдать всем призы; Алиса раздаёт сладости, а сама получает напёрсток.
+    explicit_rules:
+      - Додо прямо поясняет, что точная форма трассы не имеет значения.
+      - Додо объявляет, что победили все и все должны получить призы.
+    mechanics:
+      - Разнесённые по круговой трассе стартовые позиции.
+      - Отсутствие синхронного старта и единого момента остановки участников.
+      - Объявление общего результата и распределение призов между всеми участниками.
+    completeness: partial
