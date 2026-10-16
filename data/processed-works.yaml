@@ -13,3 +13,9 @@ works:
     processed_at: '2026-10-16'
     game_ids:
       - dice-for-the-mariners-fate
+  - id: the-queen-of-spades
+    title: The Queen of Spades
+    source_url: https://www.gutenberg.org/cache/epub/55024/pg55024-images.html
+    processed_at: '2026-10-16'
+    game_ids:
+      - three-seven-ace-faro
