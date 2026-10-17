@@ -43,3 +43,10 @@ works:
     processed_at: '2026-10-17'
     game_ids:
       - red-ettins-three-riddles
+  - id: the-purloined-letter
+    title: The Purloined Letter
+    source_url: https://www.eapoe.org/works/tales/plttrb.htm
+    processed_at: '2026-10-17'
+    game_ids:
+      - even-and-odd-marbles
+      - map-word-search-game
