@@ -31,3 +31,9 @@ works:
     processed_at: '2026-10-16'
     game_ids:
       - calaveras-frog-jumping-contest
+  - id: tom-tit-tot
+    title: Tom Tit Tot
+    source_url: https://www.gutenberg.org/files/7439/7439-h/7439-h.htm
+    processed_at: '2026-10-17'
+    game_ids:
+      - tom-tit-tot-name-guessing
