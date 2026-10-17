@@ -37,3 +37,9 @@ works:
     processed_at: '2026-10-17'
     game_ids:
       - tom-tit-tot-name-guessing
+  - id: the-red-ettin
+    title: The Red Ettin
+    source_url: https://en.wikisource.org/wiki/English_Fairy_Tales/The_Red_Ettin
+    processed_at: '2026-10-17'
+    game_ids:
+      - red-ettins-three-riddles
