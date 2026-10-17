@@ -1,0 +1,29 @@
+id: red-ettins-three-riddles
+name: Три загадки Красного Эттина
+name_is_editorial: true
+added_at: '2026-10-17'
+updated_at: '2026-10-17'
+origin: fictional
+game_type: испытание загадками
+evidence:
+  - work_id: the-red-ettin
+    work_title: The Red Ettin
+    work_title_ru: Красный Эттин
+    source:
+      title: English Fairy Tales
+      url: https://en.wikisource.org/wiki/English_Fairy_Tales/The_Red_Ettin
+      location: 'The Red Ettin, the two brothers’ encounters with the three-headed monster; see Notes and References, XXIII'
+      location_ru: 'Сказка «Красный Эттин»: встречи двух братьев с трёхголовым великаном; примечания XXIII'
+      edition: 'Joseph Jacobs, English Fairy Tales (1890), as transcribed at Wikisource; Jacobs explicitly substituted riddles from Demandes Joyous'
+    observed_play:
+      - Красный Эттин обнаруживает старшего брата и предлагает ему ответить на три вопроса, обещая сохранить жизнь при успехе.
+      - Каждая из трёх голов задаёт старшему брату по одной загадке; он не отвечает ни на одну, и великан превращает его в каменный столб.
+      - Позднее великан задаёт младшему брату те же три вопроса. Тот заранее получил ответы от доброй феи и отвечает на все три.
+      - После успешных ответов великан понимает, что его власть закончилась; младший брат затем убивает его и освобождает пленников.
+    explicit_rules:
+      - Великан прямо обещает сохранить жизнь пленнику, если тот сумеет ответить на три его вопроса.
+    mechanics:
+      - Три последовательно задаваемые загадки, по одной от каждой головы великана.
+      - Успех показан как правильные ответы на все три вопроса; старший брат терпит неудачу, младший справляется.
+      - Ответы, полученные заранее от феи, помогают младшему брату; запрет на подсказки в тексте не установлен.
+    completeness: partial
