@@ -6,5 +6,7 @@
   "data/games/looking-glass-living-chess.yaml",
   "data/games/calaveras-frog-jumping-contest.yaml",
   "data/games/tom-tit-tot-name-guessing.yaml",
-  "data/games/red-ettins-three-riddles.yaml"
+  "data/games/red-ettins-three-riddles.yaml",
+  "data/games/even-and-odd-marbles.yaml",
+  "data/games/map-word-search-game.yaml"
 ]
