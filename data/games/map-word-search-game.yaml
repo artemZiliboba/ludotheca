@@ -1,0 +1,31 @@
+id: map-word-search-game
+name: Поиск названий на карте
+name_is_editorial: true
+added_at: '2026-10-17'
+updated_at: '2026-10-17'
+origin: traditional
+game_type: поиск визуальной информации и выбор задания для соперника
+evidence:
+  - work_id: the-purloined-letter
+    work_title: The Purloined Letter
+    work_title_ru: Похищенное письмо
+    source:
+      title: The Purloined Letter
+      url: https://www.eapoe.org/works/tales/plttrb.htm
+      location: 'Dupin’s explanation near the end; the paragraph beginning “There is a game of puzzles”'
+      location_ru: 'Объяснение Дюпена ближе к концу рассказа: абзац об игре-головоломке на карте'
+      edition: 'Edgar Allan Poe Society of Baltimore, text of the 1845 Tales edition (Text-03b); checked against complete text reproduced by SparkNotes'
+    observed_play:
+      - Дюпен описывает игру, в которой один участник предлагает другому найти заданное слово на географической карте.
+      - Новичок, стремясь затруднить поиск, обычно выбирает название, напечатанное очень мелко.
+      - Опытный игрок, напротив, задаёт крупную надпись, протянутую через значительную часть карты: её часто пропускают именно из-за чрезмерной заметности.
+    explicit_rules:
+      - Один участник выбирает напечатанное на карте название города, реки, государства или другого географического объекта, а другой должен найти это слово на карте.
+    mechanics:
+      - Асимметричные роли задающего цель и ищущего; общий визуальный материал — карта с множеством надписей.
+      - Сложность задания определяется не только размером шрифта, но и особенностями визуального внимания.
+      - Контринтуитивный выбор большой, заметной надписи как способ затруднить поиск.
+    distinctive_features:
+      - Текст прямо противопоставляет стратегию новичка и опытного игрока.
+      - Пропуск слишком очевидной цели используется как игровая тактика, а затем как аналогия способа спрятать письмо.
+    completeness: partial
