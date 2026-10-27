@@ -50,3 +50,9 @@ works:
     game_ids:
       - even-and-odd-marbles
       - map-word-search-game
+  - id: the-game-of-logic
+    title: The Game of Logic
+    source_url: https://www.gutenberg.org/files/4763/4763-h/4763-h.htm
+    processed_at: '2026-10-27'
+    game_ids:
+      - carrolls-game-of-logic
