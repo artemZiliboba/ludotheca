@@ -61,3 +61,8 @@ works:
     source_url: https://www.gutenberg.org/files/13/13-h/13-h.htm
     processed_at: '2026-10-27'
     game_ids: []
+  - id: the-queen-of-spades-pushkin
+    title: Пиковая дама
+    source_url: https://ru.wikisource.org/wiki/Пиковая_дама_(Пушкин)/Версия_2
+    processed_at: '2026-10-28'
+    game_ids: []
