@@ -66,3 +66,9 @@ works:
     source_url: https://ru.wikisource.org/wiki/Пиковая_дама_(Пушкин)/Версия_2
     processed_at: '2026-10-28'
     game_ids: []
+  - id: grimms-das-raetsel
+    title: Das Rätsel
+    source_url: https://www.grimmstories.com/de/grimm_maerchen/das_raetsel
+    processed_at: '2026-10-28'
+    game_ids:
+      - princess-riddle-contest
