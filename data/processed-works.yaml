@@ -76,5 +76,4 @@ works:
     title: Die sechs Diener
     source_url: https://www.grimmstories.com/language.php?grimm=134&l=de&r=en
     processed_at: '2026-10-28'
-    game_ids:
-      - six-servants-three-trials
+    game_ids: []
