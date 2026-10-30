@@ -77,3 +77,9 @@ works:
     source_url: https://www.grimmstories.com/language.php?grimm=134&l=de&r=en
     processed_at: '2026-10-28'
     game_ids: []
+  - id: stevenson-story-young-man-cream-tarts
+    title: Story of the Young Man with the Cream Tarts
+    source_url: https://en.wikisource.org/wiki/New_Arabian_Nights/Story_of_the_Young_Man_with_the_Cream_Tarts
+    processed_at: '2026-10-30'
+    game_ids:
+      - suicide-club-card-draw
